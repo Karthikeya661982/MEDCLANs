@@ -1,0 +1,6 @@
+{
+  "name": "MEDCLAN",
+  "description": "AI Healthcare Platform for Every Emergency — Saving Lives Faster, Smarter & More Affordable.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
